@@ -16,7 +16,7 @@ MP3：VS1003B
 键盘: 学校机房最常见的那种usb键盘，无明确型号 
 
 其中.v为源文件
-.COE为音频数据文件
+.COE为谱面文件，音频文件可以下载项目完整压缩包获取
 ### Bilibili演示视频
 ```
 https://www.bilibili.com/video/BV1ra411q7rn
